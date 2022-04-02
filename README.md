@@ -3,7 +3,7 @@
   <h2 align="center">ClickUp Docs Exports</h2>
 
   <p align="center">
-     A nodejs app to extract network urls from log files, download those files, and group them correctly
+     A NodeJS app to extract network urls from log files, download those files, and group them correctly
   </p>
 </div>
 
